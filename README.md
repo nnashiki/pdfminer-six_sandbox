@@ -10,3 +10,13 @@ pdfminer-six_sandbox
 
 # run
 - `python main.py`
+
+
+# refs
+- https://pdfminersix.readthedocs.io/en/latest/
+- https://pdfminersix.readthedocs.io/en/latest/tutorial/highlevel.html
+- https://pdfminersix.readthedocs.io/en/latest/howto/images.html
+
+- https://pdfminersix.readthedocs.io/en/latest/tutorial/composable.html
+- https://pdfminersix.readthedocs.io/en/latest/tutorial/extract_pages.html
+- https://github.com/pdfminer/pdfminer.six
